@@ -1,3 +1,5 @@
+# Streamline Your Coding Workflow with ChatGPT
+
 Are you a programmer looking for ways to optimize your workflow and improve your productivity? Look no further ChatGPT has got you covered ,this is an advanced AI language model developed by OpenAI. It has powerful capabilities and natural language processing and has been trained to interact limke a human for years. ChatGPT can serve as a useful tool to streamline your coding processes and make your life as a programmer much easier. In this article, we'll explore how you can effectively use  ChatGPT to boost your coding efficiency.
 
 ## 1. Code Assistance and Problem Solving
